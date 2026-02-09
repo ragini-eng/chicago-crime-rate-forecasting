@@ -62,19 +62,19 @@ This project addresses these questions using historical data and forecasting tec
 
 ### Yearly Crime Trend
 This chart shows how total crime volume has changed over the years.
-![Yearly Crime Trend](report/charts/yearly_crime_trend.png)
+![Yearly Crime Trend](report/figures/yearly_crime_trend.png)
 
 ### Monthly Crime Pattern
 Monthly aggregation reveals strong seasonal patterns in crime activity.
-![Monthly Crime Trend](report/charts/monthly_crime_trend.png)
+![Monthly Crime Trend](report/figures/monthly_crime_trend.png)
 
 ### Time Series Forecast
 The Prophet model captures both trend and seasonality in the data.
-![Monthly Forecast](report/charts/prophet_monthly_forecast.png)
+![Monthly Forecast](report/figures/prophet_monthly_forecast.png)
 
 ### Five-Year Crime Forecast
 This forecast provides a long-term view of expected crime trends.
-![5 Year Forecast](report/charts/five_year_forecast.png)
+![5 Year Forecast](report/figures/five_year_forecast.png)
 
 ---
 
