@@ -70,11 +70,11 @@ Monthly aggregation reveals strong seasonal patterns in crime activity.
 
 ### Time Series Forecast
 The Prophet model captures both trend and seasonality in the data.
-![Monthly Forecast](reports/figures/prophet_monthly_forecast.png)
+![Monthly Forecast](reports/figures/prophet_forecast_monthly.png)
 
 ### Five-Year Crime Forecast
 This forecast provides a long-term view of expected crime trends.
-![5 Year Forecast](reports/figures/five_year_forecast.png)
+![5 Year Forecast](reports/figures/next_5_year_forecast.png)
 
 ---
 
@@ -96,7 +96,7 @@ This forecast provides a long-term view of expected crime trends.
 ## 📄 Detailed Project Report
 A complete visual analysis and explanation of the project is available here:
 
-👉 **[View Full Project Report](reports/Project_Report.md)**
+👉 **[View Full Project Report](reports/chicago_crime_project_report.md)**
 
 ---
 
