@@ -1,4 +1,4 @@
-# 📊 Chicago Crime Rate Forecasting – Project Report
+#  Chicago Crime Rate Forecasting – Project Report
 
 ## 📌 Project Summary
 This project analyzes historical crime data from the city of Chicago and applies **time series forecasting** techniques to understand past crime patterns and predict future trends.
